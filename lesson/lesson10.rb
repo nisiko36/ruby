@@ -9,3 +9,4 @@ end
 
 truck = Truck.new
 truck.run(5)
+
